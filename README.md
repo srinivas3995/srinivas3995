@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @srinivas3995
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning java,css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in learning new skills.
+- 🌱 I’m currently learning java,css.
+  
+
 
 <!---
 srinivas3995/srinivas3995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
